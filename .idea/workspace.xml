@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f7caadd-a7f1-43c1-9d79-979ae336122b" name="Default Changelist" comment="function program">
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f7caadd-a7f1-43c1-9d79-979ae336122b" name="Default Changelist" comment="class an object program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626590277821</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="class an object program">
+      <created>1626604161778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626604161778</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +195,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="line added" />
     <MESSAGE value="function program" />
-    <option name="LAST_COMMIT_MESSAGE" value="function program" />
+    <MESSAGE value="class an object program" />
+    <option name="LAST_COMMIT_MESSAGE" value="class an object program" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="0" key="#demo" timestamp="1626498117701">
@@ -222,18 +227,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1367" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1626595579974" />
-    <state x="212" y="55" key="MergeDialog" timestamp="1626591377755">
+    <state x="212" y="55" key="MergeDialog" timestamp="1626604103999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="212" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1626591377755" />
-    <state x="571" y="232" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1626591377801">
+    <state x="212" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1626604103999" />
+    <state x="571" y="232" width="492" height="264" key="MultipleFileMergeDialog" timestamp="1626604104019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="571" y="232" width="389" height="264" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1626591377801" />
+    <state x="571" y="232" width="492" height="264" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1626604104019" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1626591186132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1626591186132" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626604175510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1626604175510" />
     <state x="757" y="246" key="git4idea.rebase.GitRebaseDialog" timestamp="1626498625431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
